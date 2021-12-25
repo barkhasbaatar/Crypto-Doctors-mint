@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x14D010A129E472857170C162c9F485e8D1d1b9dF",
+  "SCAN_LINK": "https://polygonscan.com/token/0x14D010A129E472857170C162c9F485e8D1d1b9dF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Doctors vs Covid19",
+  "SYMBOL": "CC19",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://opensea.io/collection/crypto-doctors-vs-covid19-v2",
+  "SHOW_BACKGROUND": true
+}
